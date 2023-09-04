@@ -1,2 +1,2 @@
 # KaggleStudy_teamA
-Study for ML Regression with teamA.
+머신러닝 딥러닝 문제해결 전략 책 보고 프로젝트에 필요한 내용만 뽑아서 복습하기.
