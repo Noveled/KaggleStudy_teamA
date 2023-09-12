@@ -14,3 +14,7 @@ hyewon: 혜원
 ### git action 사용해서 논문 리뷰 자동화.
 ppp paper review
 gosht-nlp check.
+
+
+### Reference
+신백균님 
